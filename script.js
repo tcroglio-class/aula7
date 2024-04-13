@@ -11,7 +11,7 @@ function darkMode() {
     document.documentElement.style.setProperty('--font-both-primary-color', 'white'); /* branco do texto */
 }
 
-
+    
 function lightMode() {
 
     /* white mode all */
